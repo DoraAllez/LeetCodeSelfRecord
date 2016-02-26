@@ -1,2 +1,3 @@
 # LeetCodeSelfRecord
 LeetCode 20160228 Hope it can be a nice beginning
+Make some changes day by day...
